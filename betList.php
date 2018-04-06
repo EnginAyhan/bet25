@@ -6,4 +6,5 @@
  * Time: 21:45
  */
 echo "deneme";
+//dddd
 ?>
